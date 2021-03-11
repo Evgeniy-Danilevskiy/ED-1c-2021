@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main1()
 {
 	int n1, n2;
 	cin >> n1 >> n2;
@@ -20,3 +20,13 @@ int main()
 	
 	return 0;
 }
+
+/*
+	cin:1234
+		2356
+	cout:3 2 
+
+	cin:125698
+		4658
+	cout:8 6 5
+*/
